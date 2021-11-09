@@ -1,0 +1,5 @@
+10 character long string. Characters either I or O.
+
+0 - OOOOOOOOOO
+1 - OOOOOOOOOI
+2 - OOOOOOOOIO
