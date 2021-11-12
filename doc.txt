@@ -1,5 +1,89 @@
-10 character long string. Characters either I or O.
+Node.JS/JavaScript transpiler.
+4 Character Long String - Characters: g e c k !
+Combinations: 4^5 = 1024
 
-0 - OOOOOOOOOO
-1 - OOOOOOOOOI
-2 - OOOOOOOOIO
+1: g!!!
+2: e!!!
+3: c!!!
+4: k!!!
+5: ge!!
+6: gc!!
+7: gk!!
+8: eg!!
+9: ee!!
+0: ec!!
+a: ek!!
+b: cg!!
+c: ce!!
+d: cc!!
+e: ck!!
+f: kg!!
+g: ke!!
+h: kc!!
+i: kk!!
+j: !g!!
+k: !e!!
+l: !c!!
+m: !k!!
+n: !gg!
+o: !ge!
+p: !gc!
+q: !gk!
+r: !eg!
+s: !ee!
+t: !ec!
+u: !ek!
+v: !cg!
+w: !ce!
+x: !cc!
+y: !ck!
+z: !kg!
+A: e!k!
+B: c!g!
+C: c!e!
+D: c!c!
+E: c!k!
+F: k!g!
+G: k!e!
+H: k!c!
+I: k!k!
+J: !!g!
+K: !!e!
+L: !!c!
+M: !!k!
+N: !!gg
+O: !!ge
+P: !!gc
+Q: !!gk
+R: !!eg
+S: !!ee
+T: !!ec
+U: !!ek
+V: !!cg
+W: !!ce
+X: !!cc
+Y: !!ck
+Z: !!kg
+": !!ke
+!: !!!!
+£: !!kc
+$: !!kk
+%: !g!g
+^: !g!e
+&: !g!c
+*: !g!k
+(: !e!g
+): !e!e
+-: !e!c
+_: !e!k
+=: !c!g
++: !c!e
+[: !c!c
+]: !c!k
+{: !k!g
+}: !k!e
+:: !k!c
+\: !k!k
+
+var: ge!k
+console.log: ke!g
